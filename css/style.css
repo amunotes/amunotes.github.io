@@ -2891,7 +2891,7 @@ h3 {
   width: 100%;
   height: 100%;
   text-align: center;
-  background: #fff;
+  background: rgba(230, 230, 230, 0.637);
   border: 0;
   -webkit-transform: scale(0.9);
   -moz-transform: scale(0.9);
