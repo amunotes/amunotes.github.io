@@ -3,7 +3,8 @@
 
 ![PyPI - Status](https://img.shields.io/pypi/status/django)
 ![GitHub contributors](https://img.shields.io/github/contributors/amunotes1/amunotes.github.io)
-[![Build Status][travis-image]][travis-url]
+![Website](https://img.shields.io/badge/website-amu-blue)
+
 
 Here we provide you the class notes and other stuffs like books.
 
