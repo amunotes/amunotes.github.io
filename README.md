@@ -2,7 +2,6 @@
 > A website for students of AMU to download your class notes, books, course syllabus and many other resources easily.
 
 ![PyPI - Status](https://img.shields.io/pypi/status/django)
-![GitHub contributors](https://img.shields.io/badge/contributers-2-orange)
 ![Website](https://img.shields.io/badge/website-amu-blue)
 
 
